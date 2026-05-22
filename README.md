@@ -1,5 +1,3 @@
-![](https://github.com/navikt/veilarbportefolje/workflows/Build,%20push%20and%20deploy/badge.svg)
-
 # veilarbportefolje
 
 Fork av https://github.com/navikt/veilarbportefolje som brukes til eksperimentering i isolert miljø.
