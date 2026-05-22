@@ -1,4 +1,4 @@
-name: Build, push and deploy GCP
+name: Run tests
 
 on:
   push:
